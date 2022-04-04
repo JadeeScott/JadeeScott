@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jadee Scott.
-- 👀 I’m interested in Front-End development.
-- 🌱 I’m currently learning Front-end development.
+- 👀 I’m interested in Data Analytics development.
+- 🌱 I’m currently learning Data Analytics development.
 - 💞️ I’m looking to gain experince and grow within this career. I am a fast learner and enjoy writting code and designing websites.
 - 📫 How to reach me: 
       Email: leighjadee@gmail.com
